@@ -240,6 +240,7 @@ pre {
 <section class='container'>
           <hgroup>
             <h1>Welcome to your Ruby application on OpenShift - S2i Testing</h1>
+	    <h2> Look at this autobuild </h2>
           </hgroup>
 
 
